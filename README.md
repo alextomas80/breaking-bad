@@ -7,7 +7,7 @@ Proyecto en React para la consulta de los personajes de Breaking Bad.
 Lo primero de todo, deberemos clonar la aplicación:
 
 ```
-git clone .....
+git clone https://github.com/alextomas80/breaking-bad.git
 ```
 
 E instalar las dependencias:
@@ -42,3 +42,7 @@ Para la internacionalización he usado [i18next](https://react.i18next.com/), de
 - **utils**: directorio para definir funciones de uso común
 - **App.js**: punto de entrada de la aplicación
 - **i18n.js**: configuración de i18n
+
+### Demo
+
+Se puede ver una demo en https://breaking-bad-ath.netlify.app/
