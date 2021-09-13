@@ -15,7 +15,7 @@ import theme from "theme";
 function App() {
   const dispatch = useDispatch();
 
-  const loading = useSelector((state) => state.characters.loading);
+  const { loading } = useSelector((state) => state.characters);
 
   useEffect(() => {
     dispatch(startGetCharacters());
