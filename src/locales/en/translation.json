@@ -1,0 +1,14 @@
+{
+  "appearance": "Appearance",
+  "birthday": "Birthday",
+  "category": "Category",
+  "loading-quote": "Loading quote...",
+  "name": "Name",
+  "nickname": "Nickname",
+  "occupation": "Occupation",
+  "portrayed": "Portrayed",
+  "reload-quote": "Refresh!",
+  "select-character": "Select a character",
+  "status": "Status",
+  "unknown": "Unknown"
+}

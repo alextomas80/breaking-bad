@@ -1,0 +1,14 @@
+{
+  "appearance": "Aparece en",
+  "birthday": "Fecha de nacimiento",
+  "category": "Categoría",
+  "loading-quote": "Cargando frase...",
+  "name": "Nombre",
+  "nickname": "Apodo",
+  "occupation": "Ocupación",
+  "portrayed": "Intérprete",
+  "reload-quote": "¡Otra!",
+  "select-character": "Selecciona un personaje",
+  "status": "Estado",
+  "unknown": "Desconocido"
+}
